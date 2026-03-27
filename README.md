@@ -41,7 +41,7 @@ git clone https://github.com/anuragyadav0311/SmartStudyTracker.git
 2. Navigate to project folder:
 
 ```
-cd smart-study-tracker/src
+cd SmartStudyTracker/src
 ```
 
 3. Compile:
