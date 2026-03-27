@@ -35,7 +35,7 @@ SmartStudyTracker/
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/smart-study-tracker.git
+git clone https://github.com/anuragyadav0311/SmartStudyTracker.git
 ```
 
 2. Navigate to project folder:
